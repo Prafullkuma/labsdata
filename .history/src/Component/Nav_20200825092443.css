@@ -1,0 +1,13 @@
+.Navbar{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style: none;
+}

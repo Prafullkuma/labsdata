@@ -1,0 +1,10 @@
+.register{
+    text-align: center;
+}
+.register h1{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+#outlined-basic{
+}

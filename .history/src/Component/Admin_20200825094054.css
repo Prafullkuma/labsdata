@@ -1,0 +1,8 @@
+.userdata{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+h1{
+    margin-left: 40px;
+}

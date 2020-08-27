@@ -1,0 +1,17 @@
+.userdata{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+h3{
+    margin-left: 30px;
+}
+.userdata{
+   display: flex;
+   flex-direction: column;
+   padding: 10px; 
+}
+.Data_use label{
+    font-family: sans-serif;
+    margin: 0px;
+}

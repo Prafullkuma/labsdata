@@ -1,0 +1,23 @@
+.userdata{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+h3{
+    margin-left: 30px;
+}
+.userdata{
+   display: flex;
+   flex-direction: column;
+   padding: 10px; 
+}
+.Data_use label{
+    font-family: sans-serif;
+    margin: 60px;
+    text-align: center;
+}
+.Data_use input,select{
+margin-bottom: 10px;
+width: 200px;
+align-items: center;
+}

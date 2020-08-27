@@ -1,0 +1,12 @@
+.userdata{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+h3{
+    margin-left: 30px;
+}
+.userdata{
+   display: flex;
+   flex-direction: column; 
+}

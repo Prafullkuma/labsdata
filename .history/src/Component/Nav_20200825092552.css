@@ -1,0 +1,16 @@
+.Navbar{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+    }
+ul,li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+}
